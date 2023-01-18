@@ -14,7 +14,7 @@ Program/Projects of Asynchronous programming which code helps you to understandi
 >> 
 >> Async-If you will add async before the body of the function it makes your function asynchrnous.
 >> 
->> Await-It gives you the complete result of the asynchrnous expression.
+>> Await-It gives you the complete result of the asynchronous expression.
 
 
 #### TO RUN THE PROGRAMME
